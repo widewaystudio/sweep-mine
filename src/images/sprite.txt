@@ -1,0 +1,21 @@
+.img{background:url(../images/img.png) no-repeat ;}
+._08{height:272px;width:272px;background-position:0 0;}
+._07{height:272px;width:272px;background-position:0 -272px;} 1
+._06{height:272px;width:272px;background-position:0 -544px;}2
+.e{height:272px;width:272px;background-position:0 -816px;} 3
+.xiaoqi{height:272px;width:272px;background-position:0 -1088px;} 4
+.wenhao{height:272px;width:272px;background-position:0 -1360px;} 5
+.nomine{height:272px;width:272px;background-position:0 -1632px;} 6
+._05{height:272px;width:272px;background-position:0 -1904px;}  7
+._02{height:272px;width:272px;background-position:0 -2176px;} 8
+._1{height:272px;width:272px;background-position:0 -2448px;}  9
+._01{height:272px;width:272px;background-position:0 -2720px;} 10
+._2{height:272px;width:272px;background-position:0 -2992px;}  11
+._04{height:272px;width:272px;background-position:0 -3264px;}  12
+._3{height:272px;width:272px;background-position:0 -3536px;}   13
+._03{height:272px;width:272px;background-position:0 -3808px;}  14
+
+.smile0{background:url(../images/smile0.png) no-repeat ;}
+.smile2{height:60px;width:60px;background-position:0 0;}
+.smile1{height:60px;width:60px;background-position:0 -60px;}
+.smile{height:60px;width:60px;background-position:0 -120px;}

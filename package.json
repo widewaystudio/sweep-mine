@@ -1,0 +1,32 @@
+{
+  "name": "sweepmine",
+  "version": "1.0.0",
+  "description": "\"js 原生 原型上编雷的数据和标记信息\"",
+  "main": "RevisedMine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"js原生",
+    "html",
+    "css\""
+  ],
+  "author": "widewaystudio",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^8.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-connect-reproxy": "^0.0.98",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlclean": "^2.7.20",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^4.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
