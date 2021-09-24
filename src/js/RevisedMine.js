@@ -1,8 +1,8 @@
 /*
  * @Author: Think
  * @Date:   2018-04-14 12:15:35
- * @Last Modified by:   Think
- * @Last Modified time: 2018-05-06 21:39:50
+ * @Last Modified by:   widewaystudio
+ * @Last Modified time: 2020-03-20 20:28:12
  */
 var mine = {
     mineA: {},
@@ -645,3 +645,4 @@ function event(e) {
     }
 }
 game.init();
+console.log("xxxx");
