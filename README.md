@@ -5,13 +5,13 @@
 ## 设计：仿照windows 系统的扫雷的界面设计，并在适合网页上做了优化和处理，使得加载速度更快了，游戏更流程
 ### 界面设计如下图：
 #### 初级界面
->![初级界面](https://github.com/widewaystudio/sweep-mine/blob/master/build/images/4.jpg)
+>![初级界面](https://github.com/widewaystudio/sweep-mine/blob/master/docs/images/4.jpg)
 #### 中级界面
->![中级界面](https://github.com/widewaystudio/sweep-mine/blob/master/build/images/3.jpg)
+>![中级界面](https://github.com/widewaystudio/sweep-mine/blob/master/docs/images/3.jpg)
 #### 高级界面
->![高级界面](https://github.com/widewaystudio/sweep-mine/blob/master/build/images/1.jpg)
+>![高级界面](https://github.com/widewaystudio/sweep-mine/blob/master/docs/images/1.jpg)
 #### 游戏中的界面
->![游戏中的图片](https://github.com/widewaystudio/sweep-mine/blob/master/build/images/5.jpg)
->![游戏中的图片](https://github.com/widewaystudio/sweep-mine/blob/master/build/images/6.jpg)
->![游戏中的图片](https://github.com/widewaystudio/sweep-mine/blob/master/build/images/7.jpg)
->![游戏中的图片](https://github.com/widewaystudio/sweep-mine/blob/master/build/images/2.jpg)
+>![游戏中的图片](https://github.com/widewaystudio/sweep-mine/blob/master/docs/images/5.jpg)
+>![游戏中的图片](https://github.com/widewaystudio/sweep-mine/blob/master/docs/images/6.jpg)
+>![游戏中的图片](https://github.com/widewaystudio/sweep-mine/blob/master/docs/images/7.jpg)
+>![游戏中的图片](https://github.com/widewaystudio/sweep-mine/blob/master/docs/images/2.jpg)
